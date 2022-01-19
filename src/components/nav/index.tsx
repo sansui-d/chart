@@ -2,7 +2,7 @@ import React from 'react'
 
 const Nav = ()=>{
     return(
-        <div></div>
+        <div>123</div>
     )
 }
 
